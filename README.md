@@ -26,6 +26,22 @@
 
 <img width="877" height="1600" alt="image" src="https://github.com/user-attachments/assets/6f961bd8-8763-4424-aaa2-0ea2f12cbc98" />
 
+**TABULATION**
+
+<img width="1600" height="892" alt="image" src="https://github.com/user-attachments/assets/ae730225-9e75-4d89-b9b6-ae79b8fec98e" />
+
+**CALCULATION**
+
+<img width="1600" height="654" alt="image" src="https://github.com/user-attachments/assets/a8f73767-4e2e-4f1d-b9be-8639da55ec50" />
+
+<img width="1260" height="1600" alt="image" src="https://github.com/user-attachments/assets/03f3b25a-4c09-404f-9f51-34fbe556e21d" />
+
+
+<img width="1157" height="1600" alt="image" src="https://github.com/user-attachments/assets/1beab359-8917-486e-9dda-673b70231f52" />
+
+
+
+
 
 
 
