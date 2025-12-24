@@ -1,5 +1,7 @@
 # VERIFICATION OF KIRCHHOFF’S LAWS
 
+WINRAJAN K (25013384)
+
 **AIM:**
 
 *To verify Kirchhoff’s voltage law and Kirchhoff’s current law both theoretically and practically for a given DC circuit.*
@@ -24,8 +26,21 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="877" height="1600" alt="image" src="https://github.com/user-attachments/assets/28cec8cd-6b7f-4138-8ee1-fa3f53b4f04b" />
 
 
+**TABULATION**
+
+<img width="1600" height="892" alt="image" src="https://github.com/user-attachments/assets/6286e40d-919c-4fa9-be9b-15058e93c953" />
+
+
+**CALCULATION**
+
+<img width="1600" height="654" alt="image" src="https://github.com/user-attachments/assets/2e32c1d6-449f-49ff-bd9b-dc6202fd9c5f" />
+
+<img width="1260" height="1600" alt="image" src="https://github.com/user-attachments/assets/0152df54-c535-4f63-9d46-2154c28b91b6" />
+
+<img width="1260" height="1600" alt="image" src="https://github.com/user-attachments/assets/3ca86551-72fb-4e25-afd2-e9c21bb6b15b" />
 
 
 
@@ -52,4 +67,5 @@
 **RESULT:**
 
 *ThusKirchoff’s Current Law and Kirchoff’s Voltage law are verified practically and theoretically.*
+
 
